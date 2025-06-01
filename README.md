@@ -374,7 +374,7 @@ More actions
 > generate lottery numbers
 
 `.multipoll <question> [options...]`
-> Create a poll with multiple options. Example: .multipoll "Favorite?" "Red" "Blue" "green"
+> Create a poll with multiple options. Example: .multipoll "Favorite color?" "Red" "Blue" "green"
 
 `.ping`
 > Show bot latency
